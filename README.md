@@ -1,1 +1,2 @@
-# react-note
+# Simple React Note App
+  React.js
